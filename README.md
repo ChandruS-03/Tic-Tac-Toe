@@ -10,3 +10,6 @@ Highlights winning cells and displays a banner for the winner.
 Allows players to restart the game at any point.
 Feel free to clone or fork this repository to explore the code and enhance your understanding of web development using basic HTML, CSS, and JavaScript.
 
+git add README.md
+git commit -m "Add images to README"
+git push origin main
