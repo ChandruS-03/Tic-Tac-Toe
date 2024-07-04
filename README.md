@@ -10,7 +10,8 @@ Highlights winning cells and displays a banner for the winner.
 Allows players to restart the game at any point.
 Feel free to clone or fork this repository to explore the code and enhance your understanding of web development using basic HTML, CSS, and JavaScript.
 
-![Alt text](Screenshot 2024-07-04 203231.jpg)
+![Screenshot 2024-07-04 203231](https://github.com/ChandruS-03/Tic-Tac-Toe/assets/146056254/acf5da3f-0091-4133-a3fb-0a274b09f115)
+
 
 
 
