@@ -10,6 +10,7 @@ Highlights winning cells and displays a banner for the winner.
 Allows players to restart the game at any point.
 Feel free to clone or fork this repository to explore the code and enhance your understanding of web development using basic HTML, CSS, and JavaScript.
 
-![Alt text](D:\Screenshot 2024-07-04 203231.jpg)
+![Alt text](Screenshot 2024-07-04 203231.jpg)
+
 
 
